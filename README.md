@@ -45,6 +45,8 @@ bash
      python main.py
 
 When prompted, enter the Instagram username you want to gather data for.
+
+
 Step 5: View the Results
 
 After running the script, you will see the extracted data displayed in the terminal, and any downloaded content will be saved in the project directory.
